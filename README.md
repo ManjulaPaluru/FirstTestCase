@@ -1,3 +1,2 @@
 # FirstTestCase
-First TestCase
-adding two numbers
+Adding all my testcases to framework
